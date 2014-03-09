@@ -1,49 +1,29 @@
-# Dogecoin [DOGE, Ð] Integration/Staging Tree
-http://dogecoin.com/
+# Bacoin [BCN, ∬] Integration/Staging Tree
+http://www.ryoshu.com/bacoin/
 
-![DogeCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+![Bacoin](http://www.ryoshu.com/wp-content/uploads/2014/03/1995_China_1oz_Gold_Pig_coin.jpg)
 
-## What is DogeCoin? - Such coin
-Dogecoin is like Bitcoin, but based on Litecoin, and also much more wow.
-http://dogecoin.com/
+## What is Bacoin? - Delicious currency
+Bacoin is like Litecoin, but based on Dogecoin, and also much more tasty.
+http://www.ryoshu.com/bacoin/
 
-## License - Much license
-DogeCoin is released under the terms of the MIT license. See [COPYING](COPYING)
+## License - license
+Bacoin is released under the terms of the MIT license. See [COPYING](COPYING)
 for more information or see http://opensource.org/licenses/MIT.
 
-## Development and contributions - omg developers
+## Development and contributions - developers
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-## Very Much Frequently Asked Questions
+## Frequently Asked Questions
 
-### How much doge can exist?
-Early 2015 (approximately a year and a half after release) there will be approximately 100,000,000,000 coins.
-Each subsequent block will grant 10,000 coins to encourage miners to continue to secure the network and make up for lost wallets on hard drives/phones/lost encryption passwords/etc.
-For the block schedule, see http://en.wikipedia.org/wiki/Dogecoin#Block_schedule
+### How much bacoin can exist?
+TBD
 
-### How get doge?
-Scrypt Proof of Work
+### How do I get bacoin?
+Coin design has commenced.
 
-1 Minute Block Targets, 4 Hour Diff Readjustments
-
-Special reward system: Random block rewards
-
-1-100,000: 0-1,000,000 Dogecoin Reward
-
-100,001 — 200,000: 0-500,000 Dogecoin Reward
-
-200,001 — 300,000: 0-250,000 Dogecoin Reward
-
-300,001 — 400,000: 0-125,000 Dogecoin Reward
-
-400,001 — 500,000: 0-62,500 Dogecoin Reward
-
-500,001 - 600,000: 0-31,250 Dogecoin Reward
-
-600,000+ — 10,000 Reward (flat)
-
-### Wow plz make dogecoind
+### How do I build bacoind?
 
     sudo apt-get install build-essential \
                          libssl-dev \
@@ -55,8 +35,6 @@ Special reward system: Random block rewards
     cd src/
     make -f makefile.unix USE_UPNP=1 USE_IPV6=1 USE_QRCODE=1
 
-### Such ports
-RPC 22555
-P2P 22556
-
-![](http://dogesay.com/wow//////such/coin)
+### Ports
+RPC TBD
+P2P TBD
